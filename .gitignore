@@ -128,3 +128,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.jpeg
+*.jpg
+*.png
+/PyTorch practical NN/data_science_bootcamp_practice/hymenoptera_data/
