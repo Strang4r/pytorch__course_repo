@@ -132,3 +132,6 @@ dmypy.json
 *.jpg
 *.png
 /PyTorch practical NN/data_science_bootcamp_practice/hymenoptera_data/
+PyTorch practical NN/data/
+*.csv
+/DS tools practice/Pandas/data/
